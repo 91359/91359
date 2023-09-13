@@ -8,11 +8,11 @@
 <div align="center">  
    <!-- Condding Display -->
  <a href="https://wakatime.com/@91359" target="_blank">
-	<img width="40%" align="center" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=91359&border_radius=5px&theme=dark&bg_color=ffffff00&border_color=ffffff00&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
+	<img width="40%" align="left" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=91359&border_radius=5px&theme=dark&bg_color=ffffff00&border_color=ffffff00&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
 </a>
   <!-- Dc Presence -->
   <a href="https://discord.com/users/350049031390494721" target="_blank">
-	<img width="35%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/350049031390494721?bg=1a1c1f5c&borderRadius=30px">
+	<img width="35%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/350049031390494721?bg=1a1c1f5c&borderRadius=30px">
 </a>
 	<a href="https://api.lanyard.rest/350049031390494721.png"></a>
 </div>
